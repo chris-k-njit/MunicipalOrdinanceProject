@@ -9,3 +9,4 @@ logs/*
 venv
 chroma_*
 chroma_.DS_Store
+.dockerignore
