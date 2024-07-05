@@ -81,7 +81,7 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - s
 
 ## Acknowledgments
 
-* Credit to `Maps on the Web, for NJ Municipalities by Type map <https://mapsontheweb.zoom-maps.com/post/127873974472/new-jersey-municipalities-by-type-by>`_
+* Thanks to <a href="https://mapsontheweb.zoom-maps.com/post/127873974472/new-jersey-municipalities-by-type-by">Maps on the Web, for NJ Municipalities by Type map.</a>
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
