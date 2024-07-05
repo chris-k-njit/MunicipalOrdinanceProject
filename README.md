@@ -5,6 +5,17 @@ The goal of this project/application is to use RAG (Retrieval Augmented Generati
 ## NJ Municipalities
 ![All Municipalities in NJ](/images/NJ_Municipality_Map.jpg)
 
+## All Tasks for this Project
+- [x] Set up RestAPI for project (FastAPI)
+- [ ] Implement RAG into chosen RestAPI
+- [ ] IF using FastAPI, add code for accessing chroma and use logging to save the user query/input (log the query and the response to the query)
+- [ ] Need this application to take in user input, provide a response
+- [ ] Have applicaiton then have this create a "job", have a field to keep track of status of jobs (Jobs Created, Jobs In-Process, Jobs Complete, etc.)
+- [ ] Create a script that will load information into vectordb, in order for RAG to work (Chroma needs to be loaded)
+- [ ] Ensure API uses langchain / chroma in response to user inputs/prompts
+- [ ] Two programs towards end of project/application (Program 1 is API, Program 2 is loading Chroma)
+- [ ] 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
