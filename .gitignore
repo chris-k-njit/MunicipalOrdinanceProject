@@ -1,0 +1,11 @@
+*.sw*
+.coverage
+.pytest_cache
+*__pycache__
+.env
+amsvenv
+logs*
+logs/*
+venv
+chroma_*
+chroma_.DS_Store
