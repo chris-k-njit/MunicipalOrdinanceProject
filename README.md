@@ -8,13 +8,16 @@ The goal of this project/application is to use RAG (Retrieval Augmented Generati
 ## All Tasks for this Project
 - [x] Set up RestAPI for project (FastAPI)
 - [ ] Implement RAG into chosen RestAPI
-- [ ] IF using FastAPI, add code for accessing chroma and use logging to save the user query/input (log the query and the response to the query)
+- [ ] FastAPI, add code for accessing chroma and use logging to save the user query/input (log the query and the response to the query)
 - [ ] Need this application to take in user input, provide a response
 - [ ] Have applicaiton then have this create a "job", have a field to keep track of status of jobs (Jobs Created, Jobs In-Process, Jobs Complete, etc.)
 - [ ] Create a script that will load information into vectordb, in order for RAG to work (Chroma needs to be loaded)
 - [ ] Ensure API uses langchain / chroma in response to user inputs/prompts
 - [ ] Two programs towards end of project/application (Program 1 is API, Program 2 is loading Chroma)
-- [ ] 
+- [ ] Get Anything LLM running online (Use GCP???)
+- [ ] Connect Hugging Face (caht models) with  Anything LLM running online (Use GCP???)
+- [ ] Get FastAPI running with Anything LLM
+- [ ] Download town ordnances in PDF files, load into Anything LLM
 
 ## Getting Started
 
@@ -84,6 +87,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Chris Keddell** - *Initial work* - [chris-k-njit](https://github.com/chris-k-njit)
 
+* **Mark S.** - *Initial work* - [markszcz](https://github.com/markszcz)
+
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. (NONE AT THIS TIME, ADD ON IN FUTURE)
 
 ## License
@@ -93,6 +98,6 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - s
 ## Acknowledgments
 
 * Thanks to <a href="https://mapsontheweb.zoom-maps.com/post/127873974472/new-jersey-municipalities-by-type-by">Maps on the Web, for NJ Municipalities by Type map.</a>
-* Hat tip to anyone whose code was used
+* NJ Towns with PDF files of their local ordnances.
 * Inspiration
 * etc
