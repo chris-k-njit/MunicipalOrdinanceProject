@@ -2,6 +2,9 @@
 
 The goal of this project/application is to use RAG (Retrieval Augmented Generation), fine tuning and synthetic data generation to help anyone get a better understanding of the differenty property/zoning/housing laws for the town/city of the state that someone may reside in. Whether the individual is renting or the owner of a property, it can get really complicated really quickly to understand what laws/ordinances or other codes that you have to follow in your municipality. The state of New Jersey is a great example of an abundance of legal data to comb through for this subject, as there are 500+ municipalities. 
 
+Midterm Video Submission:
+* [Google Drive Link](https://drive.google.com/file/d/1YeIE871AmlUrumjTLenjm5BhkbxfvnD0/view?usp=sharing) - Video on Google Drive
+
 ## NJ Municipalities
 ![All Municipalities in NJ](/images/NJ_Municipality_Map.jpg)
 
@@ -15,7 +18,7 @@ The goal of this project/application is to use RAG (Retrieval Augmented Generati
 - [ ] Ensure API uses langchain / chroma in response to user inputs/prompts
 - [ ] Two programs towards end of project/application (Program 1 is API, Program 2 is loading Chroma)
 - [ ] Get Anything LLM running online (Use GCP???)
-- [ ] Connect Hugging Face (caht models) with  Anything LLM running online (Use GCP???)
+- [ ] Connect Hugging Face (chat models) with  Anything LLM running online (Use GCP???)
 - [ ] Get FastAPI running with Anything LLM
 - [ ] Download town ordnances in PDF files, load into Anything LLM
 
