@@ -2,25 +2,28 @@
 
 The goal of this project/application is to use RAG (Retrieval Augmented Generation), fine tuning and synthetic data generation to help anyone get a better understanding of the differenty property/zoning/housing laws for the town/city of the state that someone may reside in. Whether the individual is renting or the owner of a property, it can get really complicated really quickly to understand what laws/ordinances or other codes that you have to follow in your municipality. The state of New Jersey is a great example of an abundance of legal data to comb through for this subject, as there are 500+ municipalities. 
 
-Midterm Video Submission:
-* [Google Drive Link](https://drive.google.com/file/d/1YeIE871AmlUrumjTLenjm5BhkbxfvnD0/view?usp=sharing) - Video on Google Drive
+<!-- (OLD) Midterm Video Submission:
+* [Google Drive Link](https://drive.google.com/file/d/1YeIE871AmlUrumjTLenjm5BhkbxfvnD0/view?usp=sharing) - Video on Google Drive -->
+
+## FINAL Video Submission:
+* Adding here within next few days.
 
 ## NJ Municipalities
 ![All Municipalities in NJ](/images/NJ_Municipality_Map.jpg)
 
 ## All Tasks for this Project
 - [x] Set up RestAPI for project (FastAPI)
-- [ ] Implement RAG into chosen RestAPI
+- [x] Implement RAG into chosen RestAPI
 - [ ] FastAPI, add code for accessing chroma and use logging to save the user query/input (log the query and the response to the query)
 - [ ] Need this application to take in user input, provide a response
 - [ ] Have applicaiton then have this create a "job", have a field to keep track of status of jobs (Jobs Created, Jobs In-Process, Jobs Complete, etc.)
 - [ ] Create a script that will load information into vectordb, in order for RAG to work (Chroma needs to be loaded)
 - [ ] Ensure API uses langchain / chroma in response to user inputs/prompts
 - [ ] Two programs towards end of project/application (Program 1 is API, Program 2 is loading Chroma)
-- [ ] Get Anything LLM running online (Use GCP???)
+- [x] Get Anything LLM running online (Use GCP???)
 - [ ] Connect Hugging Face (chat models) with  Anything LLM running online (Use GCP???)
 - [ ] Get FastAPI running with Anything LLM
-- [ ] Download town ordnances in PDF files, load into Anything LLM
+- [x] Download town ordnances in PDF files, load into Anything LLM
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
