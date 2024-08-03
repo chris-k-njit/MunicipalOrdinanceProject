@@ -1,6 +1,6 @@
 # LegalEase
 
-The goal of this project/application is to use RAG (Retrieval Augmented Generation), fine tuning and synthetic data generation to help anyone get a better understanding of the differenty property/zoning/housing laws for the town/city of the state that someone may reside in. Whether the individual is renting or the owner of a property, it can get really complicated really quickly to understand what laws/ordinances or other codes that you have to follow in your municipality. The state of New Jersey is a great example of an abundance of legal data to comb through for this subject, as there are 500+ municipalities. 
+The goal of this project/application is to use RAG (Retrieval Augmented Generation), fine tuning and synthetic data generation to help anyone get a better understanding of the differenty ordinances for the municapality of the state that someone may reside in. It can get really complicated really quickly to understand what laws/ordinances or other codes that you have to follow in your municipality. The state of New Jersey is a great example of an abundance of legal data to comb through for this subject, as there are 500+ municipalities. 
 
 <!-- (OLD) Midterm Video Submission:
 * [Google Drive Link](https://drive.google.com/file/d/1YeIE871AmlUrumjTLenjm5BhkbxfvnD0/view?usp=sharing) - Video on Google Drive -->
@@ -69,15 +69,12 @@ Add additional notes about how to deploy this on a live system
 * AnythingLLM, Hugging Face (Free LLMs)
 * GCP
 
-
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). (NO TAGS YET)
 
 ## Authors
 * **Chris Keddell** - *Initial work* - [chris-k-njit](https://github.com/chris-k-njit)
 * **Mark S.** - *Initial work* - [markszcz](https://github.com/markszcz)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. (NONE AT THIS TIME, ADD ON IN FUTURE)
 
 ## License
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](LICENSE) file for details
