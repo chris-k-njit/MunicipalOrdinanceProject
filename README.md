@@ -65,9 +65,10 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-* Python (FastAPI, Pandas, )
+* Python (FastAPI, Pandas, others)
 * AnythingLLM, Hugging Face (Free LLMs)
-* 
+* GCP
+
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). (NO TAGS YET)
