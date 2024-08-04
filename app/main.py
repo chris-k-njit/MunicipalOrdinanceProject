@@ -1,5 +1,5 @@
 # app/main.py
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, Form, UploadFile, File
 from app.data_processing import load_data, get_summary_statistics, search_ordinances
 from app.llm_integration import generate_summary
 import asyncio
