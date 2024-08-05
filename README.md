@@ -4,9 +4,9 @@ The goal of this project/application is to use RAG (Retrieval Augmented Generati
 
 <!-- (OLD) Midterm Video Submission:
 * [Google Drive Link](https://drive.google.com/file/d/1YeIE871AmlUrumjTLenjm5BhkbxfvnD0/view?usp=sharing) - Video on Google Drive -->
-
+<!-- 
 ## FINAL Video Submission:
-* Adding here within next few days.
+* Adding here within next few days. -->
 
 ## NJ Municipalities
 ![All Municipalities in NJ](/images/NJ_Municipality_Map.jpg)
