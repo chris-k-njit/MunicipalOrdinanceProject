@@ -7,7 +7,7 @@ The goal of this project/application is to use RAG (Retrieval Augmented Generati
 
 ## FINAL Video Submission:
 * [Google Drive Link](https://drive.google.com/file/d/116LXVV1bYZ5XvWzsYO8eTaY_xLvcLZzX/view?usp=sharing) - Video on Google Drive
-NOTE: Screenshot with cURL was deleted as I would prefer the whole internet does not have too much info about my personal computer.
+* NOTE: Screenshot with cURL was deleted as I would prefer the whole internet does not have too much info about my personal computer.
 
 ## FINAL Slideshow Presentation:
 * [Google Drive Link](https://docs.google.com/presentation/d/1qBrrGaCCcrH6fV1ryy_E_1bE-kUHIObyHj60FC2jhj4/edit?usp=sharing) - Google Slides on Google Drive
