@@ -1,4 +1,4 @@
-# LegalEase
+# Municipal Ordinance Parsing
 
 The goal of this project/application is to use RAG (Retrieval Augmented Generation), fine tuning and synthetic data generation to help anyone get a better understanding of the differenty ordinances for the municapality of the state that someone may reside in. It can get really complicated really quickly to understand what laws/ordinances or other codes that you have to follow in your municipality. The state of New Jersey is a great example of an abundance of legal data to comb through for this subject, as there are 500+ municipalities. 
 
