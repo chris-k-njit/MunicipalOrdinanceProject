@@ -83,3 +83,6 @@ This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - s
 * NJ Towns with PDF files of their local ordnances.
 * Inspiration
 * etc
+
+## Enhancements
+* Adjusting or adding new features in 2025
